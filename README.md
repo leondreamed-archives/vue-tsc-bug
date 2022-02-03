@@ -1,6 +1,6 @@
 # vue-tsc bug
 
-When using union operator in defineEmits:
+When using union operator in defineEmits (see `src/App-bug.vue`):
 
 ```ts
 defineEmits<{
